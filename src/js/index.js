@@ -1,6 +1,6 @@
 /**
  * Tocbot
- * Tocbot creates a toble of contents based on HTML headings on a page,
+ * Tocbot creates a table of contents based on HTML headings on a page,
  * this allows users to easily jump to different sections of the document.
  * Tocbot was inspired by tocify (http://gregfranko.com/jquery.tocify.js/).
  * The main differences are that it works natively without any need for jquery or jquery UI).
